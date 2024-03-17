@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+page view 
+![image](https://github.com/shivani2189khatana/Solar-calculator-Frontend/assets/31790010/42d4e74e-9baa-4f55-88da-a369694240e0)
+
